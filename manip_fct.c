@@ -1,4 +1,4 @@
-#include "traitement_image.h"
+#include "manip_fct.h"
 
 // Création d'une image contenant 3 couches de la même taille qui représentent les couleurs RVB
 Image* creation_image(int l, int h, int r) {

@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-#include "traitement_image.c"
+#include "manip_fct.h"
 
 int main() {
     Image *image = creation_image(5, 5, 1);
